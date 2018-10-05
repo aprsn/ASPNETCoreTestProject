@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2126950F-D7F6-4725-BA4F-2132E4237A17}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/APITest/APIControllerTest.cs">
+    <Files>
+      <File FileName="test/APITest/UserServiceTest.cs" Line="24" Column="91" />
+      <File FileName="test/APITest/APIControllerTest.cs" Line="39" Column="1" />
+      <File FileName="src/API/Controllers/UsersController.cs" Line="7" Column="2" />
+      <File FileName="src/API/Data/IUserRepository.cs" Line="11" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="APITest" expanded="True" selected="True">
+            <Node name="test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
